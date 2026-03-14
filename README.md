@@ -20,19 +20,19 @@
 * Кастомизация стилей
 ### Структура проекта:
 >Lab13_isrpo/
-├── index.html   # Главная страница
-├── custom.css # Кастомные стили
-├── README.md # Описание проекта
-├── portfolio.html          # Финальное портфолио 
-├── portfolio.css # Дополнительные стили для портфолио
-├── timeline.html           # Временная шкала достижений 
-├──  experiment.html # эксперименты
-├── gallery.html # Галерея 
-└── img/ # Скриншоты
+>├── index.html   # Главная страница
+>├── custom.css # Кастомные стили
+>├── README.md # Описание проекта
+>├── portfolio.html          # Финальное портфолио 
+>├── portfolio.css # Дополнительные стили для портфолио
+>├── timeline.html           # Временная шкала достижений 
+>├──  experiment.html # эксперименты
+>├── gallery.html # Галерея 
+>└── img/ # Скриншоты
 >>├── gitPushLab13_Bootstrap_FIO.png
-├── step2_bootstrapConnectionLab13_FIO.png
-├── step3_gridMobileLab13_FIO.png
-└── ...
+>>├── step2_bootstrapConnectionLab13_FIO.png
+>>├── step3_gridMobileLab13_FIO.png
+>>└── ...
 ### Как запустить:
 1. Откройте файл `index.html` в браузере
 2. Или используйте Live Server в VS Code
